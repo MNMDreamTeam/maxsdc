@@ -1,0 +1,29 @@
+{
+  "name": "maxsdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNMDreamTeam/maxsdc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNMDreamTeam/maxsdc/issues"
+  },
+  "homepage": "https://github.com/MNMDreamTeam/maxsdc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "lorem-ipsum": "^2.0.3",
+    "nodemon": "^2.0.2",
+    "pg": "^7.15.0",
+    "pg-native": "^3.0.0"
+  }
+}
