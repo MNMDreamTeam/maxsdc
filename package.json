@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/MNMDreamTeam/maxsdc#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "lorem-ipsum": "^2.0.3",
     "nodemon": "^2.0.2",
